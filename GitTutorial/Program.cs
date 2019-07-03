@@ -19,6 +19,8 @@ namespace GitTutorial
             Console.WriteLine("Earth is mine");
             Console.WriteLine("Hello World");
             Console.WriteLine("World is mine");
+
+            Console.WriteLine("Earth on Local repository");
         }
     }
 }
